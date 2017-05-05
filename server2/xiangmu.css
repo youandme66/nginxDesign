@@ -1,0 +1,12 @@
+p {font-size:30px; font-family:"ËÎÌå"; color:#0000FF}
+a:link{text-decoration:none; color:#99FF33;}
+.button {background-color:#33FF00;}
+div {background-color:#FFFFFF;}
+*{margin:0px auto;border:0px;padding:0px;}
+.menu{font-size:18px;background-color:#009900;color:#FFFFFF; margin-left:80px; font-family:"Î¢ÈíÑÅºÚ Light";}
+input {height:30px;}
+#load {width:40px; height:30px; background-color:#6699FF; cursor: n-resize;}
+#zhuce {width:40px;height:30px; background-color:#6699FF; cursor: n-resize;}
+#error {font-size:18px; color:#FF0000;font-family:"ËÎÌå"; height:18px;}
+
+
